@@ -8,7 +8,7 @@ namespace campus
         [STAThread]
         static void Main()
         {
-            // ebeni siqjhfbqýb...123
+            // ebeni siqjhfbqýb...1234
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
